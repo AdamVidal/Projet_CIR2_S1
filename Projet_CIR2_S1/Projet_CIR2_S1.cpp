@@ -426,6 +426,7 @@ void Informations::Retour(wxCommandEvent& evt) {
 
 
 
+
 class App : public wxApp
 {
 public:
